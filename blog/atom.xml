@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://gaurav-nanda-site.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://gaurav-nanda-site.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://gaurav-nanda-site.github.io/blog</id>
 	<author>
 		<name>Gaurav Nanda</name>
 		<email>gnanda@purdue.edu</email>
